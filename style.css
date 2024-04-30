@@ -1,0 +1,11 @@
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+.back {
+    background-color: #97CDD2;
+}
+
+.btn {
+    background: linear-gradient(90deg, #92EBF1 0%, #86FDE8 100%);
+}
